@@ -1,0 +1,39 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"], textarea {
+    padding: 8px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#remaining-days, #earnings {
+    margin-bottom: 10px;
+}
