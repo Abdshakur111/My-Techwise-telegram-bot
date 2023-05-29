@@ -6,7 +6,7 @@ from backend.telegram import TelegramAPI
 from backend.utils import calculate_remaining_days, calculate_earnings
 
 # Your bot token
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "5811139988:AAH4RaOg9EgxpO_eMcC2T9XwYG5sz7b9gS4"
 
 # Create an instance of the Updater class
 updater = Updater(token=TOKEN, use_context=True)
